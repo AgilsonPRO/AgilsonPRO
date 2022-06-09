@@ -16,7 +16,7 @@ Metodologias Agil: Scrum (certificado SFC)
 Versionamento:git e git hub.
 
 Você pode entrar em contato comigo pelos seguintes canais:
-Whats: 61 99327-7705
+Whats: 61 99317-7705
 e-mail: agilson.profissional@gmail.com
 
 
