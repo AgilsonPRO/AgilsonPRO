@@ -8,7 +8,7 @@ Estou sempre atualizando meus conhecimentos com os cursos da ALURA. alguns certi
 
 Meus conhecimentos técnicos são:
 Desenvolvimento web com PHP e Mysql.
-Montagem de query, estabelecimento de seção , aplicação de regras de negócio.
+Montagem de query, criação de C.R.U.D , estabelecimento de seção , aplicação de regras de negócio.
 Estilização de paginas com CSS, SASS e meu fremawork favorito "Bootstrap".
 Desenvolvimento de DASHBORARD com power BI.
 
