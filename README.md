@@ -12,8 +12,9 @@ Montagem de query, criação de C.R.U.D , estabelecimento de seção ,gerar PDF,
 Estilização de paginas com CSS, SASS, Responsividade e meu fremawork favorito "Bootstrap".
 Desenvolvimento de DASHBORARD e analises de dados com power BI.
 
-Metodologias Agil: Scrum (certificado SFC)
+Metodologia Agil: Scrum (certificado SFC)
 Versionamento:git e git hub.
+LGPD.
 
 Você pode entrar em contato comigo pelos seguintes canais:
 Whats: 61 99317-7705
