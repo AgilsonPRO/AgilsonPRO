@@ -1,6 +1,6 @@
 Olá, Bem vindo ao meu repositório github.
 
-Tenho 28 anos, sou casada e estou a procura de emprego.
+Tenho 28 anos, sou casado e estou a procura de emprego.
 Sou pós-graduado em business intelligence e graduado em sistemas de informação.
 
 Tenho cursos e experiencia em motagem e configuração e também possuo certificação SFC.
