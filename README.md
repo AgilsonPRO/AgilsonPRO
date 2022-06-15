@@ -10,7 +10,7 @@ Meus conhecimentos técnicos são:
 Desenvolvimento web com PHP e Mysql.
 Montagem de query, criação de C.R.U.D , estabelecimento de seção ,gerar PDF, gerar gráficos, envio de e-mails automáticos, aplicação de regras de negócio.
 Estilização de paginas com CSS, SASS, Responsividade e meu fremawork favorito "Bootstrap".
-Desenvolvimento de DASHBORARD e analises de dados com power BI.
+Desenvolvimento de DASHBORARD e analises de dados com power BI. Prototipação de telas com figma.
 
 Metodologia Agil: Scrum (certificado SFC)
 Versionamento:git e git hub.
